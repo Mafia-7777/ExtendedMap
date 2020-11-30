@@ -1,6 +1,6 @@
 {
   "name": "extendedmap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Filter for maps :O",
   "main": "index.js",
   "repository": {
