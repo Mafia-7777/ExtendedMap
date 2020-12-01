@@ -1,6 +1,6 @@
 {
   "name": "extendedmap",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Filter for maps :O",
   "main": "index.js",
   "repository": {
@@ -12,10 +12,10 @@
     "url": "https://github.com/Mafia-boss-lvl-420/ExtendedMap/issues"
   },
   "homepage": "https://github.com/Mafia-boss-lvl-420/ExtendedMap#readme",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+
   "keywords": [
-    "map"
+    "map",
+    "maps",
+    "collection"
   ]
 }
