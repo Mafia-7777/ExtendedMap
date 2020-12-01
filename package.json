@@ -1,16 +1,21 @@
 {
   "name": "extendedmap",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Filter for maps :O",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mafia-boss-lvl-420/ExtendedMap.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Mafia-boss-lvl-420",
   "bugs": {
     "url": "https://github.com/Mafia-boss-lvl-420/ExtendedMap/issues"
   },
-  "homepage": "https://github.com/Mafia-boss-lvl-420/ExtendedMap#readme"
+  "homepage": "https://github.com/Mafia-boss-lvl-420/ExtendedMap#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "map"
+  ]
 }
